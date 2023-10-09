@@ -2,5 +2,7 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
+# Hello reader!
+## This page will contain random thoughts, know-hows and rants
 
-Testing lmao
+#### More to come soon enough!
