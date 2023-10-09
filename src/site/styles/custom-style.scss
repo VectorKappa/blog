@@ -7,11 +7,24 @@ body {
     //  .content {
     //   font-size: 14px;
     //  }
-    .theme-dark {
-        font-family: "Lexend Deca" !important;
-    }
-
-    
+    --font-text-theme:
+    "Lexend Deca",
+    -apple-system,
+    blinkmacsystemfont,
+    "Segoe UI",
+    "Microsoft YaHei Light",
+    roboto,
+    inter,
+    sans-serif !important;
+  --font-interface-theme:
+    "Lexend Deca",
+    -apple-system,
+    blinkmacsystemfont,
+    "Segoe UI",
+    "Microsoft YaHei Light",
+    roboto,
+    inter,
+    sans-serif !important;
     //  h1 {
     //   color: black;
     //  }
